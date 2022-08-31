@@ -1,0 +1,3 @@
+C:/DATA/IMERCY/KINOVA/kinova-colorsort/cmake-build-debug/CMakeFiles/kinova_colorsort.dir
+C:/DATA/IMERCY/KINOVA/kinova-colorsort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/DATA/IMERCY/KINOVA/kinova-colorsort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
